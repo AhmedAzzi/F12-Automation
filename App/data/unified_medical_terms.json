@@ -1,0 +1,91 @@
+[
+  {
+    "main_term": "ECHOGRAPHIE",
+    "synonyms": [
+      "ECHO",
+      "ECHOGRAPHIE"
+    ]
+  },
+  {
+    "main_term": "ECHOGRAPHIE ABDOMINOPELVIENNE",
+    "synonyms": [
+      "ECHO ABDOMINO PELVIENNE",
+      "ECHO ABDOMINOPELVIENNE",
+      "ECHOGRAPHIE ABDOMINOPELVIENNE",
+      "PELVIEN",
+      "PELVIENNE"
+    ]
+  },
+  {
+    "main_term": "RX",
+    "synonyms": [
+      "RADIO",
+      "RADIOGRAPHIE"
+    ]
+  },
+  {
+    "main_term": "RX BASSIN",
+    "synonyms": [
+      "BASSIN"
+    ]
+  },
+  {
+    "main_term": "RX EPAULE",
+    "synonyms": [
+      "EPAULE"
+    ]
+  },
+  {
+    "main_term": "RX GENOU",
+    "synonyms": [
+      "GENOU"
+    ]
+  },
+  {
+    "main_term": "RX MAMMOGRAPHIE",
+    "synonyms": [
+      "MAMMOGRAPHIE"
+    ]
+  },
+  {
+    "main_term": "RX MAMMOGRAPHIE BILATERALE",
+    "synonyms": [
+      "MAMMOGRAPHIE",
+      "MAMMOGRAPHIE BILATERALE"
+    ]
+  },
+  {
+    "main_term": "RX MAMMOGRAPHIE UNILATERALE",
+    "synonyms": [
+      "MAMMOGRAPHIE",
+      "MAMMOGRAPHIE SEIN DROIT",
+      "MAMMOGRAPHIE SEIN GAUCHE",
+      "SEIN"
+    ]
+  },
+  {
+    "main_term": "RX RACHIS LOMBAIRE",
+    "synonyms": [
+      "LOMBAIRE",
+      "RACHIS",
+      "RACHIS LOMBAIRE"
+    ]
+  },
+
+  {
+    "main_term": "UNILATERALE DROITE",
+    "synonyms": [
+      "SEIN",
+      "SEIN DROIT",
+      "UNILATERALE DROITE"
+    ]
+  },
+  {
+    "main_term": "UNILATERALE GAUCHE",
+    "synonyms": [
+      "SEIN",
+      "SEIN GAUCHE",
+      "UNILATERALE GAUCHE"
+    ]
+  }
+]
