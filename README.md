@@ -7,7 +7,7 @@
 **Batch-renames radiology reports with patient name, age, exam type and date — automatically, without touching a single file by hand.**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Release](https://img.shields.io/github/v/release/AhmedAzzi/F12-Automation?sort=semver&color=3da639)](https://github.com/AhmedAzzi/F12-Automation/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-3da639?logo=github&logoColor=white)](https://github.com/AhmedAzzi/F12-Automation/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6)](#-requirements)
 [![GUI](https://img.shields.io/badge/GUI-Tkinter-2f74c0)](#-features)
 [![Word](https://img.shields.io/badge/MS%20Word-COM%20automation-2B579A)](#-how-it-works)
@@ -16,6 +16,8 @@
 <img src="docs/images/app-dark.png" width="880" alt="F12 Automation — dark theme">
 
 **[⬇️ Download the latest installer](https://github.com/AhmedAzzi/F12-Automation/releases/latest)** · no Python required
+
+<sub>Latest release: **v1.0.0** — [installer](https://github.com/AhmedAzzi/F12-Automation/releases/download/v1.0.0/F12AutomationNoExport_Setup.exe) · [portable exe](https://github.com/AhmedAzzi/F12-Automation/releases/download/v1.0.0/main.exe) · [release notes](https://github.com/AhmedAzzi/F12-Automation/releases/tag/v1.0.0)</sub>
 
 </div>
 
